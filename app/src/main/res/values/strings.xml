@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="source">Source :</string>
+    <string name="list_category_news">List Category News :</string>
+    <string name="category">Category :</string>
+    <string name="go_to_news">Go To News :</string>
+    <string name="search">Search</string>
+</resources>
